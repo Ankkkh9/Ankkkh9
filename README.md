@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Khang An
 
-<!--
-**Ankkkh9/Ankkkh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Business Intelligence | Power BI | SQL  
 
-Here are some ideas to get you started:
+I focus on **turning business questions into data-driven insights**, especially in:
+- Marketing Analytics
+- E-commerce Performance
+- Revenue & Funnel Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 How to reach me
+- 💼 LinkedIn: www.linkedin.com/in/an-tran-0b377612a
+- 📧 Email: khangan.10hlvc@gmail.com
+
+---
+
+## 🚀 Featured Projects
+⬇️ See my highlighted projects below
